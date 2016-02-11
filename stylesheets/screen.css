@@ -431,6 +431,11 @@ img {
   max-width: 502px;
 }
 
+.footer {
+  width:100%;
+  text-align:center;
+}
+
 hr {
   border: none;
   outline: none;
